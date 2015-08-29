@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "gulp-coffee": "",
+    "gulp-concat": "",
+    "gulp-uglify": "",
+    "gulp-sass":  "",
+    "gulp-minify-css": "",
+    "gulp-if": "",
+    "gulp-plumber": ""
+  }
+}
